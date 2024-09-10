@@ -36,3 +36,9 @@ This project is part of my learning journey in Java, specifically focusing on ob
    ```bash
    javac BudgetTool.java
    java BudgetTool
+
+## Author:
+Developed by Kevin Struna in September 2024 as a sophomore Computer Science student studying at Colorado State University.
+
+## License:
+This project is licensed under the MIT License - see the LICENSE file for details.
